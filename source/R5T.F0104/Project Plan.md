@@ -1,2 +1,3 @@
 # R5T.F0104
-Code element name (class name, method name, parameter name) functionality.
+
+Code element name (class name, method name, parameter name, property name) functionality.
